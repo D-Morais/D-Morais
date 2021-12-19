@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 <div align="left">
   <a href="https://github.com/D-Morais"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=D-Morais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <br>
 
 ## 👨 &nbsp;Contatos para dúvidas ou sujestões:
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]()
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionata-santos-de-morais-b0461121b/)
 [![Gmail Badge](https://img.shields.io/badge/moraisdionata@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:moraisdionata@gmail.com)
