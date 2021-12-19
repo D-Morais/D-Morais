@@ -1,10 +1,12 @@
-### Hi there 👋
+## Olá! Eu sou o Dionata Morais, seja bem-vindo ao meu repositório ✍️✌
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Morais&show_icons=true&theme=dark)
 
 <!--
-**D-Morais/D-Morais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Quem sou eu?
 
 Here are some ideas to get you started:
-
+- Estudante de Ciencias da Computação
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Contatos para dúvidas ou sujestões:
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
