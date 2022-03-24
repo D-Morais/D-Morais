@@ -1,4 +1,4 @@
-## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! Eu sou o Dionata Morais, seja bem-vindo ao meu repositório
+## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! I'm Dionata, welcome to my repository
 
 <!--
 #Quem sou eu?
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-## 🛠 &nbsp;Tecnologias Utilizadas
+## 🛠 &nbsp;Technologies Used 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=yellow)&nbsp;
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 <br>
 
-## 👨 &nbsp;Contatos para dúvidas ou sujestões:
+## 👨 &nbsp;Contacts for questions or suggestions:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionata-santos-de-morais-b0461121b/)
 [![Gmail Badge](https://img.shields.io/badge/moraisdionata@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:moraisdionata@gmail.com)
