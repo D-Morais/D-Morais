@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! I'm Dionata, welcome to my repository
+## Hi! I'm Dionata, welcome to my repository
 
 <!--
 #Quem sou eu?
